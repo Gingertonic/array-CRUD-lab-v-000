@@ -1,15 +1,13 @@
 def create_an_empty_array
-  
+  vips_empty = Array.new
 end
 
 def create_an_array
-  
+  vips = ["Mickey", "Minnie", "Donald", "Pluto", "Goofy"]
 end
 
 def add_element_to_end_of_array(array, element)
   
-end
-
 def add_element_to_start_of_array(array, element)
   
 end
